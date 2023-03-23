@@ -1,0 +1,16 @@
+h1
+{
+
+background-color: rgb(255, 136, 0);
+}
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img
+{
+    width: 20px;
+    padding: 20px;
+    border: 10px double brown;
+}
